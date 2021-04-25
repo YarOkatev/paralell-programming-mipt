@@ -1,2 +1,2 @@
-# paralell-programming-mipt
+# parallel-programming-mipt
  
